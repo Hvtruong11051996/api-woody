@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "truongdz96",
+      "price": "7000",
+      "status": false
+    },
+    {
+      "name": "truongdz",
+      "price": "7000",
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "truongdz96",
+      "price": "7000",
+      "status": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Hoang Van Truong 96",
+      "price": "10000",
+      "status": false
+    },
+    {
+      "id": 8,
+      "name": "truongdz vcl",
+      "price": "22222",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "trường pro 96",
+      "price": "3333",
+      "status": false
+    }
+  ]
+}
