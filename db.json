@@ -40,7 +40,7 @@
       "id": 5,
       "name": "Mystery Box",
       "price": "260.00",
-      "sale" : "",
+      "sale" : "0",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/6.png",
       "status": false
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "The versatile Cabbage",
       "price": "240.00",
-      "sale" : "",
+      "sale" : "0",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/7.png",
       "status": false
