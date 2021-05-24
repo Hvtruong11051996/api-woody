@@ -3,67 +3,69 @@
     {
       "id": 1,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "240",
+      "sale" : "190",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/2.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "320",
+      "sale" : "100",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/3.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "360",
+      "sale" : "190",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/4.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "450",
+      "sale" : "100",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/5.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "260",
+      "sale" : "",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/6.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "truongdz96",
-      "price": "7000",
+      "price": "240",
+      "sale" : "",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/7.png",
       "status": false
     },
     {
-      "id": 1,
+      "id": 7,
       "name": "truongdz96",
-      "price": "7000",
-      "status": false
-    },
-    {
-      "id": 1,
-      "name": "truongdz96",
-      "price": "7000",
-      "status": false
-    },
-    {
-      "id": 1,
-      "name": "truongdz96",
-      "price": "7000",
-      "status": false
-    },
-    {
-      "id": 1,
-      "name": "truongdz96",
-      "price": "7000",
+      "price": "450",
+      "sale" : "210",
+      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "images" : "images/8.png",
       "status": false
     }
   ],
   "pagination": {
-      "_page": 1,
-      "_limit": 10,
-      "_totalRows": 50
+      "page": 1,
+      "limit": 10
   }
 }
