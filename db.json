@@ -7,7 +7,8 @@
       "sale" : "190.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/2.png",
-      "status": false
+      "status": false,
+      "ratting" : 0
     },
     {
       "id": 2,
@@ -16,7 +17,9 @@
       "sale" : "100.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/3.png",
-      "status": false
+      "status": false,
+      "ratting" : 4
+
     },
     {
       "id": 3,
@@ -25,7 +28,8 @@
       "sale" : "190.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/4.png",
-      "status": false
+      "status": false,
+      "ratting" : 5
     },
     {
       "id": 4,
@@ -34,7 +38,8 @@
       "sale" : "100.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/5.png",
-      "status": false
+      "status": false,
+      "ratting" : 3
     },
     {
       "id": 5,
@@ -43,7 +48,8 @@
       "sale" : "0",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/6.png",
-      "status": false
+      "status": false,
+      "ratting" : 4
     },
     {
       "id": 6,
@@ -52,7 +58,8 @@
       "sale" : "0",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/7.png",
-      "status": false
+      "status": false,
+      "ratting" : 0
     },
     {
       "id": 7,
@@ -61,7 +68,8 @@
       "sale" : "210.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/8.png",
-      "status": false
+      "status": false,
+      "ratting" : 4
     },
     {
       "id": 8,
@@ -70,7 +78,8 @@
       "sale" : "210.00",
       "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/4.png",
-      "status": false
+      "status": false,
+      "ratting" : 0
     }
   ],
   "pagination": {
