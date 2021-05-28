@@ -5,7 +5,8 @@
       "name": "Biplane",
       "price": "240",
       "sale" : "190",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing",
+      "description" : "Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well- balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
       "images" : "images/2.png",
       "status": false,
       "ratting" : 3
@@ -15,7 +16,8 @@
       "name": "Magic Clock",
       "price": "320",
       "sale" : "100",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "Rubber wood table is a smart product that helps people use laptops most comfortably and easily. You can use it in the salon, in bed, on the floor to create the most comfortable and inspiring work experience without having to be forced to sit at the desk.",
+      "description" : "Fashionable and beautiful design with sturdy natural rubber wood material, high durability, shiny PU paint, easy to clean, Suitable table size to ensure compactness while ensuring usable area. comfortable.You can flexibly change the viewing angle to better suit your different sitting positions. In particular, the price is also designed with a lot of heat dissipation holes to help use the laptop for a long time without worrying about getting hot.",
       "images" : "images/3.png",
       "status": false,
       "ratting" : 4
@@ -26,7 +28,8 @@
       "name": "Mystery Box",
       "price": "360",
       "sale" : "190",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "This bookshelf has a modern, sophisticated yet powerful design. With the 2cm-thick outer gable, giving this wooden bookshelf an extremely sturdy frame with excellent bearing capacity, you won't need to worry about filling up books here.",
+      "description" : "This wooden shelf is very suitable for rooms with modest area because this bookshelf does not take up much space at all. Compact size but you can still put a lot of things, you can turn it into a mini library with your favorite books or use it as a display of decorations...This wooden bookshelf is made with 2 basic colors: natural wood color and cockroach wing color. The natural wood color bookshelf will make the room space bright and full of modernity, the varnished bookshelf is a traditional color that brings warmth and friendliness. Each color has its own beauty, the choice of which color is appropriate depends on the design of each space.",
       "images" : "images/4.png",
       "status": false,
       "ratting" : 5
@@ -36,7 +39,8 @@
       "name": "Magic Clock",
       "price": "450",
       "sale" : "100",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "A unique product sample provided by Love House. The beautiful small coffee table is a suitable choice for families with limited living space. You just need to buy a few more cushions to have a perfect sitting and talking corner.",
+      "description" : "A unique product sample provided by Love House. The beautiful small coffee table is a suitable choice for families with limited living space. You just need to buy a few more cushions to have a perfect sitting and talking corner.Is a line of home decoration accessories that are diverse and rich in models. Compact design, easy to use, convenient for users. Highest quality product on the market. Affordable price, get instant discount when buying in bulk. Products are always in stock, fast delivery time",
       "images" : "images/5.png",
       "status": false,
       "ratting" : 3
@@ -46,7 +50,8 @@
       "name": "Mystery Box",
       "price": "260",
       "sale" : "0",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "Simple design with gentle vertical wooden spokes, the product is made of solid natural pine. GHS-476 desk can choose different color tones to suit the preferences and interior space of customers. You can view product samples and place orders at Go Home stores.",
+      "description" : "Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/6.png",
       "status": false,
       "ratting" : 4
@@ -56,7 +61,8 @@
       "name": "The versatile Cabbage",
       "price": "240",
       "sale" : "0",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
+      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/7.png",
       "status": false,
       "ratting" : 3
@@ -66,7 +72,8 @@
       "name": "Magic Clock",
       "price": "450",
       "sale" : "210",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
+      "description" : "A modern design that is simple yet extremely elegant to use. The product is made of GO HOME's standard industrial wood without scratches, the edge is waterproof when used, it is extremely durable, in addition, the product has a lot of colors for you to choose to suit your environment. Interior space. Table GHS-426 includes 2 sides designed to be divided into floors for books, newspapers, decorations, very suitable for use as a study table, a desk ...Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/8.png",
       "status": false,
       "ratting" : 4
@@ -76,7 +83,8 @@
       "name": "Mystery Box",
       "price": "450",
       "sale" : "210",
-      "description" : "mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
+      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
+      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
       "images" : "images/4.png",
       "status": false,
       "ratting" : 3
