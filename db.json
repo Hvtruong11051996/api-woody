@@ -88,51 +88,8 @@
       "images" : "images/pd8.jpg",
       "status": false,
       "ratting" : 3
-    },
-    {
-      "id": 9,
-      "name": "Mystery Box",
-      "price": "450",
-      "sale" : "210",
-      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
-      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
-      "images" : "images/pd9.jpg",
-      "status": false,
-      "ratting" : 3
-    },
-    {
-      "id": 10,
-      "name": "Mystery Box",
-      "price": "450",
-      "sale" : "210",
-      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
-      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
-      "images" : "images/pd10.jpg",
-      "status": false,
-      "ratting" : 3
-    },
-    {
-      "id": 11,
-      "name": "Mystery Box",
-      "price": "450",
-      "sale" : "210",
-      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
-      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
-      "images" : "images/pd11.jpg",
-      "status": false,
-      "ratting" : 3
-    },
-    {
-      "id": 12,
-      "name": "Mystery Box",
-      "price": "450",
-      "sale" : "210",
-      "introduce" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store.",
-      "description" : "The product is designed extremely delicately, suitable for many modern interior styles, made of GO HOME standard industrial pine wood sprayed with 2K glossy coating, waterproof technology when used durable. extremely stubborn. As a product made directly by GO HOME, the price is very reasonable, in addition, the product also has many extremely unique and strange colors for customers to choose at the store. Mollitia esse aspernatur ullam explicabo et itaque dolor quaerat enim distinctio corrupti et debitis vitae velit ut voluptatum quibusdam quis et molestiae qui rem facilis voluptatibus aliquam iure ea voluptatum illum deserunt pariatur et est et eos a exercitationem quo architecto qui id a inventore sint numquam quia ipsa qui",
-      "images" : "images/pd12.jpg",
-      "status": false,
-      "ratting" : 3
     }
+    
   ],
   "pagination": {
       "page": 1,
